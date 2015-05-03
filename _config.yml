@@ -2,7 +2,7 @@
 
 title: A Stunned Block of Perfect Oddness
 locale: en_US
-description: About me and my adventures in technology.
+description: Exploring the unbelievably exciting things one can do with technology to make the world a better and more beautiful place.
 logo: site-logo1.jpg
 search: true
 url: http://localhost:4000
@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Teresa Finn
-  avatar: bio-photo.jpg
+  avatar: teresa1.jpg
   email: teresa.finn@gmail.com
   disqus-shortname:
   twitter: teresa_finn

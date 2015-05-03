@@ -1,26 +1,22 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title:
+excerpt: "Block of perfect oddness."
+modified:
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: verde2.jpg
+  credit: Wikimedia
+  creditlink: http://commons.wikimedia.org/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+# Allow me to introduce myself...
+I'm Teresa and I love creating! My current obsession and chosen career is creating with technology. From crafting backend website functionality, to exploring all the incredible interactivity of Javascript, to fiddling with D3 and other data visualization tools - I love technology and all the wonderful things one can do with it to make the world a better, and more beautiful, place.
 
-## So Simple Theme is all about:
+I find the modern web development stack fascinating and love learning how the many pieces fit together. The puzzles represented by systems - technological systems, organizational systems, sociological systems - are endlessly engaging. I love mapping out how things work together to create a unified whole, which maybe explains my background in philosophy, cake decorating, political science, and plants - all systems oriented interests!
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+Enagaging communities through technology, software testing, front-end development, and the differences between computer languages, are all particularly delightful topics. I am a huge believer in the power and importance of communities - I help organize [**Ruby for Good**](http://rubyforgood.com) and designed this beautiful [**logo**](/images/ruby-for-good-logo.jpg) for our upcoming hackathon.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+In my free time I'm often focused on my master plan to populate all apartments (especially mine) with automated living plant walls. I am also frequently decorating delicious and [**beautiful baked goods**](instagram?).
 
-[^1]: Example: *domain.com/category-name/post-title*
+# Hungry for more?
+Read about my [**current projects**]() and [**professional aspirations**](). Or feel free to [**reach out**]() to me directly!
