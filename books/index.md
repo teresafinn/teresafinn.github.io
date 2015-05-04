@@ -60,7 +60,7 @@ image:
 ---
 
 ## Smattering of Favorite Phrases
-I jot down turns of phrase that catch my fancy when I remember. It seems to be a by-book situation, as you may notice. One of these days I'm going to build a random quote generator to embed in this section. I'll populate the database with these quotes and more so they can be savored like hard candy. :)
+I jot down turns of phrase that catch my fancy (when I remember). These are some of them. One of these days I'm going to build a random quote generator to embed in this section. I'll populate the database with these quotes and more so they can be savored like hard candy. :)
 
 <img style="float: left; padding-right: 50px" src="/images/books-to-set-you-free.jpg" alt="Znaniye razorvet tsepi rabstva [Knowledge will break the chains of slavery], a poster by Alexei Radakov (1872-1942).">
 
