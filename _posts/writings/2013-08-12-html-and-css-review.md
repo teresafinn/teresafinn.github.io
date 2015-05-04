@@ -13,6 +13,7 @@ comments: true
 share: true
 ---
 
-# Book Review - HTML and CSS
+### Thank you for you patience! I'm in the process of migrating my blog posts from a former location - full post to come soon!
 
-This is a fantastic book: the design is great, it's readable to the novice, and it helps me layer my understanding of how a modern website is put together. I will add more details as time permits, but in short highly recommended!
+
+<!-- This is a fantastic book: the design is great, it's readable to the novice, and it helps me layer my understanding of how a modern website is put together. I will add more details as time permits, but in short highly recommended! -->

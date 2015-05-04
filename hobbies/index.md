@@ -7,7 +7,7 @@ image:
   feature: hobbies.jpg
 ---
 
-# Cake Decorating...
+# Cake Decorating Gallery
 
 ![Monster Cake Pops](/images/monsters.jpg "Monster Cake Pops"){: .tfgallery }
 
@@ -26,3 +26,5 @@ image:
 ![Sesame Street Pops](/images/sesame-street.jpg "Sesame Street Pops"){: .tfgallery }
 
 ![Dr. Who Cake](/images/dr-who.jpg "Dr. Who Cake"){: .tfgallery }
+
+# More Hobbies to Come Soon!

@@ -13,6 +13,6 @@ comments: true
 share: true
 ---
 
-# Javascript's This vs. Ruby's Self
+### Thank you for you patience! I'm in the process of migrating my blog posts from a former location - full post to come soon!
 
-This is some pretty interesting stuff right here! I love the idea of exploring this!!
+<!-- This is some pretty interesting stuff right here! I love the idea of exploring this!! -->
