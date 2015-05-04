@@ -2,10 +2,10 @@
 
 title: A Stunned Block of Perfect Oddness
 locale: en_US
-description: Exploring the unbelievably exciting things one can do with technology to make the world a better and more beautiful place.
+description: Exploring the unbelievably exciting things one can do with technology to make the world a better - and more beautiful - place.
 logo: site-logo1.jpg
 search: true
-url: http://teresafinn.github.io
+url: http://localhost:4000
 
 # Jekyll configuration
 
