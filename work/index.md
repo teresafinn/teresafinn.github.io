@@ -43,7 +43,7 @@ I'd love to work for a company culture that promotes:
 * **Professional development** — I'm very eager to learn new things and want to soak up all opportunities possible, including attending conferences. An added bonus if your organization invests in local community.
 * **Travel** — I love to travel and would relish the opportunity to travel to different cities and countries. If you're looking for a traveler, I'm your woman!
 * **Start Date** — Now! If the position requires relocation, I would love a month or two to take care of logistics.
-* **Location** — I am looking for a company supports remote employees. I am currently based in Denver, CO, but expect to relocate back to the Washington DC area in fall 2015.
+* **Location** — I am looking for a company that supports remote employees. I am currently based in Denver, CO, but expect to relocate back to the Washington DC area in fall 2015 unless a better opportunity comes along! For non-remote positions, I would be happy to consider working in Portland, NYC, and Los Angeles.
 
 
 ---
