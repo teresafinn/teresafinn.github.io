@@ -13,6 +13,6 @@ comments: true
 share: true
 ---
 
-### Thank you for you patience! I'm in the process of migrating my blog posts from a former location - full post to come soon!
+### Thank you for your patience! I'm in the process of migrating my blog posts from a former location - full post to come soon!
 
 <!-- So technical books are amazing. I love them passionately. And his was particularly amazing. It is chock full of wonderful, dense material that has really helped me learn and understand Ruby. -->

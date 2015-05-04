@@ -4,7 +4,7 @@ title:
 excerpt: "Block of perfect oddness."
 modified:
 image:
-  feature: books.jpg
+  feature: books1.jpg
   credit: Tom Murphy VII
   creditlink: http://creativecommons.org/licenses/by-sa/3.0/, via Wikimedia Commons
 ---

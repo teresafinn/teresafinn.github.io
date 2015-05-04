@@ -4,7 +4,7 @@ title:
 excerpt: "Block of perfect oddness."
 modified:
 image:
-  feature: hobbies.jpg
+  feature: hobbies1.jpg
 ---
 
 # Cake Decorating Gallery

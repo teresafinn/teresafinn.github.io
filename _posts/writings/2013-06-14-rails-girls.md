@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-### Thank you for you patience! I'm in the process of migrating my blog posts from a former location - full post to come soon!
+### Thank you for your patience! I'm in the process of migrating my blog posts from a former location - full post to come soon!
 
 <!-- So I've been taking a web design class at George Mason University that's offered through the College of Art and Design. It's been an amazing class, and has helped fast track my nascent Photoshop skills! I've become really very interested in the backend through this class and coding in general. We learn a lot about design principles and how to create sites that are visually pleasing. This is done primarily through Photoshop mockups. It's very fun. But it really makes me curious about how to actually design these sites and their interactive! Enter, Rails Girls.
 

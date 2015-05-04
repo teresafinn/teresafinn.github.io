@@ -4,7 +4,7 @@ title: Articles and Blog Posts
 excerpt: "An archive of the articles I've written."
 search_omit: true
 image:
-  feature: articles.jpg
+  feature: articles1.jpg
   credit: Louis Marcoussis [Public domain], via Wikimedia Commons
   creditlink: https://commons.wikimedia.org/wiki/File%3ALouis_Marcoussis_Homme_%C3%A0_la_pipe_1930.jpg
 ---

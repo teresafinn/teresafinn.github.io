@@ -13,6 +13,6 @@ comments: true
 share: true
 ---
 
-### Thank you for you patience! I'm in the process of migrating my blog posts from a former location - full post to come soon!
+### Thank you for your patience! I'm in the process of migrating my blog posts from a former location - full post to come soon!
 
 <!-- I was really inspired by Saron’s talk Read Code Good! So inspired that I’d like to begin my own reading code club. Some anecdotes from my experience trying this the first time: find dedicated people who want to do it as much as you do. For now, I’m going to stick to reading code on my own, my own code reading club. -->

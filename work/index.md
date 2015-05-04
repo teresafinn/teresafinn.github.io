@@ -1,10 +1,10 @@
 ---
 layout: page
-title: I'm in the market for a job!
+title: I'm on the market!
 excerpt: "What I can offer and what I'm looking for - professionally speaking"
 modified:
 image:
-  feature: work.jpg
+  feature: work1.jpg
   credit: Petr Trojan
   creditlink: http://creativecommons.org/licenses/by-sa/3.0, via Wikimedia Commons
 ---
@@ -16,9 +16,9 @@ image:
 
 ---
 
-## About Me
+## Skills and Abilities
 
-Check out my [**resume**](/images/finn-resume.pdf) for an overview of my current projects, education, and more.
+Check out my [**resume**](/images/finn-resume.pdf) and [**github**](https://github.com/teresafinn) for an overview of my current projects, education, and more.
 
 I am a junior software developer looking to work for an organization that helps make the world a better place. I'm passionate about user experience and enjoy developing all throughout the stack from the backend to the front. I'm interested in test-driven development and can't help but design from a user-centric perspective. I've worked primarily with Ruby and Rails but would be delighted to push the boundaries of my knowledge; I'm quick to learn new skills and technologies.
 
@@ -43,8 +43,7 @@ I'd love to work for a company culture that promotes:
 * **Professional development** — I'm very eager to learn new things and want to soak up all opportunities possible, including attending conferences. An added bonus if your organization invests in local community.
 * **Travel** — I love to travel and would relish the opportunity to travel to different cities and countries. If you're looking for a traveler, I'm your woman!
 * **Start Date** — Now! If the position requires relocation, I would love a month or two to take care of logistics.
-
-Location: Ideally I am looking for a company supports remote employees. I am currently based in Denver, CO, but expect to relocate back to the Washington DC area in fall 2015.
+* **Location** — I am looking for a company supports remote employees. I am currently based in Denver, CO, but expect to relocate back to the Washington DC area in fall 2015.
 
 
 ---
@@ -53,17 +52,18 @@ Location: Ideally I am looking for a company supports remote employees. I am cur
 
 Am I a perfect fit for your organization? Please get in [**contact**](email: teresa.finn@gmail.com) with me!
 
+
 ---
 
 ## FAQ
 
 **Why do you want to work remotely?**
 
-<p class="tfindent"> I love the flexibility, freedom, and focus afforded by working remotely. Some day, I'd like to be able to live in different countries to learn local languages and cultures and maybe even help other people learn to program! (Have you seen this interesting <strong><a href="http://animalnewyork.com/2014/artists-notebook-ramsey-nasser/">article</a></strong> about programming in Arabic? Wow.) I've immensely enjoyed working with my mentors remotely. Perhaps it's because people who work on remote teams are extremely effective communicators, but the remote interactions I've had have been fabulous. I also have a wonderful walking desk that I use daily, and would love to continue using!</p>
+<p class="tfindent"> I love the flexibility, freedom, and focus afforded by working remotely. Some day, I'd like to be able to live in different countries to learn local languages and cultures and maybe even help other people learn to program - all while working remotely! (Have you seen this interesting <strong><a href="http://animalnewyork.com/2014/artists-notebook-ramsey-nasser/">article</a></strong> about programming in Arabic? Wow.) I've immensely enjoyed working with my mentors from afar. We've been very successful with a combination of <strong><a href="https://screenhero.com/">Screenhero</a></strong> and <strong><a href="https://slack.com/">Slack</a></strong>. Perhaps it's because people who work on remote teams are extremely effective communicators, but the remote interactions I've had have been fabulous. I also have a wonderful walking desk that I use daily, and would love to continue using!</p>
 
 **Why did you switch careers from higher education to tech?**
 
-<p class="tfindent"> I want the skills to create tangible things that help make people's lives better and the most effective way to do that seemed, to me, to be technology. I've been interested in web development for quite some time but it's only in recent years that I've begun investing the time and energy to get good at it! I started by fiddling around with front end technologies and became increasingly interested in the backend. Attending DC Rails Girls in summer 2013 really motivated me to begun my backend journey. I'm still building my technical vocabulary and am ready and willing to learn all I can.</p>
+<p class="tfindent"> I want the skills to create tangible things that help make people's lives better and the most effective way to do that seemed, to me, to be technology. I've been interested in web development for quite some time but it's only in recent years that I've begun investing the time and energy to get good at it! I started by fiddling around with front end technologies and became increasingly interested in the backend. Attending DC Rails Girls in summer 2013 really motivated me to begin my backend journey. I'm still building my technical vocabulary and am ready and willing to learn all I can.</p>
 
 **You did what now? What's this cake baking business...?**
 
