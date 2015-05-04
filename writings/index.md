@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Articles and Blog Posts
+title: Articles
 excerpt: "An archive of the articles I've written."
 search_omit: true
 image:
