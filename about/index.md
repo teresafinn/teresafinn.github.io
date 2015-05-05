@@ -19,5 +19,7 @@ Enagaging communities through technology, software testing, front-end developmen
 
 In my free time I'm often focused on my master plan to populate all apartments (especially mine) with automated living plant walls. I am also frequently decorating delicious and [**tasty treats**](/hobbies).
 
+<!-- I love challenges, people, and figuring out the whys. I have wide ranging interests and experiences - I've worked as a currency trader, English teacher abroad, international trade analyst, cake decorator, higher ed administrator, baby academic, barista, -->
+
 # Hungry for more?
 Read about my [**current projects**](/images/finn-resume.pdf) and [**professional aspirations**](/work). Or feel free to [**reach out**](email: teresa.finn@gmail.com) to me directly!
