@@ -50,7 +50,7 @@ I'd love to work for a company culture that promotes:
 
 ## Contact Me
 
-Am I a perfect fit for your organization? Please get in [**contact**](email: teresa.finn@gmail.com) with me!
+Am I a perfect fit for your organization? Please get in <strong><a href="mailto: teresa.finn@gmail.com">contact</a></strong> with me!
 
 
 ---
