@@ -42,6 +42,10 @@ image:
 * [**Capital in the 21st Century**](http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/067443000X/ref=sr_1_1?s=books&ie=UTF8&qid=1430772685&sr=1-1&keywords=capital+in+the+21st+century), Thomas Picketty
 * [**The Sellout**](http://www.amazon.com/The-Sellout-Novel-Paul-Beatty/dp/0374260508), Paul Beatty
 
+<!-- Riotous Assembly, Tom Sharpe -->
+<!-- DEPT. OF SPECULATION, Jenny Offill -->
+<!-- HOLD STILL: A Memoir with Photographs, Sally Mann -->
+
 <br/>
 
 ---
