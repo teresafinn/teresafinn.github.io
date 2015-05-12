@@ -32,8 +32,8 @@ Community is very important to me so I try to participate as much as possible in
 The three main things I am looking for:
 
 * **Meaningful work** and projects that help me grow my technical skills
-* **Good people** and a collaborative environment that promotes learning
-* **Mentorship**
+* **Good people** and a collaborative environment that promotes learning and mentorship
+* **Flexibility** to work on both the front and backends!
 
 I'd love to work for a company culture that promotes:
 
