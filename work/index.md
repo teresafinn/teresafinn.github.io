@@ -33,7 +33,7 @@ The three main things I am looking for:
 
 * **Meaningful work** and projects that help me grow my technical skills
 * **Good people** and a collaborative environment that promotes learning
-* **Remote friendly**
+* **Mentorship**
 
 I'd love to work for a company culture that promotes:
 
