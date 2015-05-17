@@ -45,6 +45,8 @@ image:
 <!-- Riotous Assembly, Tom Sharpe -->
 <!-- DEPT. OF SPECULATION, Jenny Offill -->
 <!-- HOLD STILL: A Memoir with Photographs, Sally Mann -->
+<!-- The Unfortunate Importance of Beauty, Amanda Filipacchi -->
+
 
 <br/>
 
