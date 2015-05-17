@@ -46,7 +46,7 @@ image:
 <!-- DEPT. OF SPECULATION, Jenny Offill -->
 <!-- HOLD STILL: A Memoir with Photographs, Sally Mann -->
 <!-- The Unfortunate Importance of Beauty, Amanda Filipacchi -->
-
+<!-- Selfish, Shallow, and Self-Absorbed: Sixteen Writers on the Decision Not to Have Kids -->
 
 <br/>
 
