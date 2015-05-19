@@ -30,11 +30,7 @@ image:
 
 <br/>
 
-<!-- Two Books from Tattered Cover -->
 
-<!-- Charles Taylor -->
-
-<!-- * [**Ready Player One**](http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448), Ernest Cline -->
 
 ---
 
@@ -45,10 +41,23 @@ image:
 * [**The Sellout**](http://www.amazon.com/The-Sellout-Novel-Paul-Beatty/dp/0374260508), Paul Beatty
 
 <!-- Riotous Assembly, Tom Sharpe -->
+
 <!-- DEPT. OF SPECULATION, Jenny Offill -->
+
 <!-- HOLD STILL: A Memoir with Photographs, Sally Mann -->
 <!-- The Unfortunate Importance of Beauty, Amanda Filipacchi -->
+
 <!-- Selfish, Shallow, and Self-Absorbed: Sixteen Writers on the Decision Not to Have Kids -->
+
+<!-- Two Books from Tattered Cover -->
+
+<!-- Charles Taylor book at Tattered Cover -->
+
+<!-- * [**Ready Player One**](http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448), Ernest Cline -->
+
+<!-- * [**The Wallcreeper**](http://www.amazon.com/The-Wallcreeper-Nell-Zink/dp/0989760715), Nell Zink -->
+
+
 
 <br/>
 
