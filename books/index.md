@@ -23,9 +23,9 @@ image:
 
 ## Currently Reading...
 * <img style="padding-right: 20px" src="/images/javascript-and-jquery-book-cover.png">[**Javascript and JQuery**](http://javascriptbook.com/), Jon Duckett
-* [**Jonathan Strange and Mr. Norrell**](http://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell), Susanna Clarke - recommended to me by my friend Brian Glusman!
+* [**Lady Chatterley's Lover**](http://www.amazon.com/Lady-Chatterleys-Lover-Unexpurgated-Edition-ebook/dp/B003VPX1XY), D.H. Lawrence
 * [**Git for Teams**](http://gitforteams.com/), Emma Jane Westby
-* [**Ready Player One**](http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448), Ernest Cline
+* [**Jonathan Strange and Mr. Norrell**](http://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell), Susanna Clarke - recommended to me by my friend Brian Glusman!
 * [**The Well-Grounded Rubyist**](http://www.manning.com/black2/), David Black
 
 <br/>
@@ -33,6 +33,8 @@ image:
 <!-- Two Books from Tattered Cover -->
 
 <!-- Charles Taylor -->
+
+<!-- * [**Ready Player One**](http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448), Ernest Cline -->
 
 ---
 
