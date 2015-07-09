@@ -23,10 +23,9 @@ image:
 
 ## Currently Reading...
 * <img style="padding-right: 20px" src="/images/javascript-and-jquery-book-cover.png">[**Javascript and JQuery**](http://javascriptbook.com/), Jon Duckett
-* [**Lady Chatterley's Lover**](http://www.amazon.com/Lady-Chatterleys-Lover-Unexpurgated-Edition-ebook/dp/B003VPX1XY), D.H. Lawrence
-* [**Git for Teams**](http://gitforteams.com/), Emma Jane Westby
+* [**Ready Player One**](http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448), Ernest Cline
 * [**Jonathan Strange and Mr. Norrell**](http://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell), Susanna Clarke - recommended to me by my friend Brian Glusman!
-* [**The Well-Grounded Rubyist**](http://www.manning.com/black2/), David Black
+
 
 <br/>
 
@@ -35,16 +34,21 @@ image:
 ---
 
 ## Want To Read...
-
+* [**The Sellout**](http://www.amazon.com/The-Sellout-Novel-Paul-Beatty/dp/0374260508), Paul Beatty
 * [**Everyday Rails Testing with RSpec**](https://leanpub.com/everydayrailsrspec?utm_content=buffer6b50a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Aaron Sumner
 * [**Capital in the 21st Century**](http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/067443000X/ref=sr_1_1?s=books&ie=UTF8&qid=1430772685&sr=1-1&keywords=capital+in+the+21st+century), Thomas Picketty
-* [**The Sellout**](http://www.amazon.com/The-Sellout-Novel-Paul-Beatty/dp/0374260508), Paul Beatty
+
+
+<!-- * [**Git for Teams**](http://gitforteams.com/), Emma Jane Westby -->
+
+<!-- Nicely Said: Writing for the Web with Style and Purpose -->
 
 <!-- Riotous Assembly, Tom Sharpe -->
 
 <!-- DEPT. OF SPECULATION, Jenny Offill -->
 
 <!-- HOLD STILL: A Memoir with Photographs, Sally Mann -->
+
 <!-- The Unfortunate Importance of Beauty, Amanda Filipacchi -->
 
 <!-- Selfish, Shallow, and Self-Absorbed: Sixteen Writers on the Decision Not to Have Kids -->
@@ -53,9 +57,18 @@ image:
 
 <!-- Charles Taylor book at Tattered Cover -->
 
-<!-- * [**Ready Player One**](http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448), Ernest Cline -->
-
 <!-- * [**The Wallcreeper**](http://www.amazon.com/The-Wallcreeper-Nell-Zink/dp/0989760715), Nell Zink -->
+
+
+
+<br/>
+
+---
+
+## Recently Read...
+
+* [**Lady Chatterley's Lover**](http://www.amazon.com/Lady-Chatterleys-Lover-Unexpurgated-Edition-ebook/dp/B003VPX1XY), D.H. Lawrence
+* [**The Well-Grounded Rubyist**](http://www.manning.com/black2/), David Black
 
 
 
