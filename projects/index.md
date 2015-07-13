@@ -37,13 +37,13 @@ First Ruby on Rails app built from scratch that allows an authenticated user to 
 ---
 
 ##  Crafty Projects
-* [**Growing Shitake Mushrooms**](link)
+* **Growing Shitake Mushrooms** - The first thing I'm planning to do when I settle into my new DC-digs is to innoculate as many oak logs as I can get my hands on with shitake mushroom spawn. I am so excited for this process to begin! When I finally get back I'll be throwing a mushroom innoculation party where we'll drill holes into our logs, plug the holes with spawn, and seal them with wax so no foreign or competing molds can siphon resources from the shitake mycelia. Do you wanna come? Contact me! The mycelia will colonize the logs in 6-18 months (I'm hoping for 6 months) and then I can expect my flush of fresh shitake mushrooms. WIN!
 
 * [**Logo and (simple) Digital Art Tinkering**](/projects/digital-art-tinkering) - I even developed (with templates) [Ascending Node](http://ascendingnode.ca/)'s live website!
 
-* [**Coffee Roasting**](link) - my favorite coffee to both roast and drink is Ethiopian. It has a wonderfully fresh and delightful flavor when light-roasted!
+* **Coffee Roasting** - My favorite coffee to both roast and drink is Ethiopian. It has a wonderfully fresh and delightful flavor when light-roasted!
 
-* [**Cake Decorating**](/projects/cake-pictures) - check out my [goodies gallery](/projects/cake-pictures)!
+* [**Cake Decorating**](/projects/cake-pictures) - Check out my [goodies gallery](/projects/cake-pictures)!
 
 ![Easter Truffles](/images/easter.jpg "Easter Truffles"){: .tfgallery }
 
