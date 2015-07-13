@@ -43,7 +43,8 @@ First Ruby on Rails app built from scratch that allows an authenticated user to 
 
 * [**Coffee Roasting**](link) - my favorite coffee to both roast and drink is Ethiopian. It has a wonderfully fresh and delightful flavor when light-roasted!
 
-* [**Cake Decorating Gallery**](/projects/cake-pictures)
+* [**Cake Decorating**](/projects/cake-pictures) - check out my [goodies gallery](/projects/cake-pictures)!
+
 ![Easter Truffles](/images/easter.jpg "Easter Truffles"){: .tfgallery }
 
 <br/>
