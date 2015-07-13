@@ -18,7 +18,7 @@ image:
 
 ## Skills and Abilities
 
-Check out my [**resume**](/images/finn-resume.pdf) and [**github**](https://github.com/teresafinn) for an overview of my current projects, education, and more.
+Check out my [**resume**](/images/finn-resume1.pdf) and [**github**](https://github.com/teresafinn) for an overview of my current projects, education, and more.
 
 I am a junior developer looking to work for an organization that promotes collaborative learning, authenticity, and curiosity. I'm passionate about user experience and enjoy developing all throughout the stack from the backend to the front. I approach problems from a user-centric perspective; empathy is core to my professional identity - creating products that suit the needs and requirements of users is second-nature. I have a strong interest in and enjoyment of TDD that enables me to build products with a stable code base. I like the challenge of designing code that is flexible enough to allow for future change. I've worked primarily with Ruby and Rails and am currently learning more about JavaScript and JQuery. I would be delighted to push the boundaries of my knowledge; I'm quick to learn new skills and technologies.
 
