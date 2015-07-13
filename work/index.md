@@ -68,10 +68,6 @@ Am I a perfect fit for your organization? Please get in <strong><a href="mailto:
 
 ## FAQ
 
-**How do you feel about working remotely?**
-
-<p class="tfindent">I love the flexibility, freedom, and focus afforded by working remotely and would be very open to exploring the opportunity. Some day, I'd like to be able to live in different countries to learn local languages and cultures and maybe even help other people learn to program - all while working remotely! (Have you seen this interesting <strong><a href="http://animalnewyork.com/2014/artists-notebook-ramsey-nasser/">article</a></strong> about programming in Arabic? Wow.) I've immensely enjoyed working with my mentors from afar. We've been very successful with a combination of <strong><a href="https://screenhero.com/">Screenhero</a></strong> and <strong><a href="https://slack.com/">Slack</a></strong>. Perhaps it's because people who work on remote teams are extremely effective communicators, but the remote interactions I've had have been fabulous. I also have a wonderful walking desk that I use daily, and would love to continue using!</p>
-
 **Why pursue learning technology when you have a social science background and lots of work experience in higher ed?**
 
 <p class="tfindent"> I want the skills to create tangible things that help make people's lives better and the most effective way to do that seemed, to me, to be technology. I've been interested in web development for quite some time but it's only in recent years that I've begun investing the time and energy to get good at it! I started by fiddling around with front end technologies and became increasingly interested in the backend. Attending DC Rails Girls in summer 2013 really motivated me to begin my backend journey. I'm still building my technical vocabulary and am ready and willing to learn all I can.</p>
@@ -79,3 +75,7 @@ Am I a perfect fit for your organization? Please get in <strong><a href="mailto:
 **You did what now? What's this cake baking business...?**
 
 <p class="tfindent"> I really love creating things. And also eating. Cake decorating is one way in which I can be creative, detail-oriented, eat tasty things, and have a lot of fun. I had a blast as a baker and still bake lots in my free time. Take a look at some of the <strong><a href="/hobbies">tasty treats</a></strong> I've made!</p>
+
+**How do you feel about working remotely?**
+
+<p class="tfindent">I love the flexibility, freedom, and focus afforded by working remotely and would be very open to exploring the opportunity. Some day, I'd like to be able to live in different countries to learn local languages and cultures and maybe even help other people learn to program - all while working remotely! (Have you seen this interesting <strong><a href="http://animalnewyork.com/2014/artists-notebook-ramsey-nasser/">article</a></strong> about programming in Arabic? Wow.) I've immensely enjoyed working with my mentors from afar. We've been very successful with a combination of <strong><a href="https://screenhero.com/">Screenhero</a></strong> and <strong><a href="https://slack.com/">Slack</a></strong>. Perhaps it's because people who work on remote teams are extremely effective communicators, but the remote interactions I've had have been fabulous. I also have a wonderful walking desk that I use daily, and would love to continue using!</p>
