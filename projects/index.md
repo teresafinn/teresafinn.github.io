@@ -18,8 +18,8 @@ image:
 ---
 
 
-## Tech Projects
-* **The Diaper Doppler**<br/>
+## Techy Projects
+* **The Diaper Doppler**
 <!-- (http://diaper-doppler.herokuapp.com) -->
 <!-- [**https://github.com/teresafinn/the-dirty-cookie**](https://github.com/teresafinn/the-dirty-cookie) -->
 - I'm really excited to currently be developing a web app for the non-profit [**PDX Diaper Bank**](www.pdxdiaperbank.org/). I'm working on creating an application that will allow volunteers at the diaper bank to place a bag of diapers on a scale and get an automatic read-out of how many diapers the package contains. This will help volunteers not have to count one-by-one all the thousands of diapers that are donated, and will ideally help distribution go much quicker!
