@@ -18,7 +18,7 @@ image:
 ---
 
 
-## Techy Projects
+## Techie Projects
 * **The Diaper Doppler** -
 <!-- (http://diaper-doppler.herokuapp.com) -->
 <!-- [(https://github.com/teresafinn/the-dirty-cookie)](https://github.com/teresafinn/the-dirty-cookie) -->
