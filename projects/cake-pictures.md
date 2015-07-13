@@ -4,10 +4,11 @@ title:
 excerpt: "Block of perfect oddness."
 modified:
 image:
-  feature: hobbies1.jpg
+  feature: about.jpg
+  credit: Tom Murphy VII
+  creditlink: http://creativecommons.org/licenses/by-sa/3.0/, via Wikimedia Commons
 ---
 
-See my projects page for more hobbies
 
 # Cake Decorating Gallery
 
@@ -29,4 +30,9 @@ See my projects page for more hobbies
 
 ![Dr. Who Cake](/images/dr-who.jpg "Dr. Who Cake"){: .tfgallery }
 
-# More Hobbies to Come Soon!
+
+<br/>
+
+---
+
+
