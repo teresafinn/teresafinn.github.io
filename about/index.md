@@ -11,7 +11,7 @@ image:
 ---
 
 # Allow me to introduce myself...
-I'm Teresa and I love creating! My current obsession and chosen career is creating with technology. From crafting backend website functionality, to exploring all the incredible interactivity of Javascript, to fiddling with D3 and other data visualization tools - I love technology and all the wonderful things one can do with it to make the world a better, and more beautiful, place.
+I'm Teresa and I love creating! My current long-lived obsession is creating with technology. From crafting backend website functionality, to exploring all the incredible interactivity of Javascript, to fiddling with D3 and other data visualization tools - I love technology and all the wonderful things one can do with it to make the world a better, and more beautiful, place.
 
 I find the modern web development stack fascinating and love learning how the many pieces fit together. The puzzles represented by systems - technological systems, organizational systems, sociological systems - are endlessly engaging. I love mapping out how things work together to create a unified whole, which maybe explains my background in philosophy, cake decorating, political science, and plants - all systems oriented interests!
 
