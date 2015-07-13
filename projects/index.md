@@ -39,7 +39,7 @@ First Ruby on Rails app built from scratch that allows an authenticated user to 
 ##  Crafty Projects
 * [**Growing Shitake Mushrooms**](link)
 
-* [**Logo and (simple) Digital Art Tinkering**](/projects/digital-art-tinkering) - I've even used templates to develop [Ascending Node](http://ascendingnode.ca/)'s live website!
+* [**Logo and (simple) Digital Art Tinkering**](/projects/digital-art-tinkering) - I even developed (with templates) [Ascending Node](http://ascendingnode.ca/)'s live website!
 
 * [**Coffee Roasting**](link) - my favorite coffee to both roast and drink is Ethiopian. It has a wonderfully fresh and delightful flavor when light-roasted!
 
