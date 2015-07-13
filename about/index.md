@@ -17,7 +17,7 @@ I find the modern web development stack fascinating and love learning how the ma
 
 I love challenges, people, and figuring out the whys. I have wide ranging interests and experiences - I've worked as a currency trader, English teacher in China, international trade analyst, cake decorator, higher ed administrator, fledgling academic, barista, and more. Particularly delightful topics for me: enagaging communities through technology, software testing, front-end development, and the differences between computer languages. I am a huge believer in the power and importance of communities - I help organize [**Ruby for Good**](http://rubyforgood.com) and designed this beautiful [**logo**](/images/ruby-for-good-logo.jpg) for our annual meeting.
 
-In my free time I'm often focused on my master plan to populate all apartments (especially mine) with automated living plant walls. I'm an avid gardener and try to colonize all viable spaces with plants. I am also frequently decorating delicious and [**tasty treats**](/hobbies). I dig roasting my own coffee, reading, and am loving coffee roasting. Very soon I will start growing my own shitake mushrooms, mmMmMmm!
+In my free time I'm often focused on my master plan to populate all apartments (especially mine) with automated living plant walls. I'm an avid gardener and try to colonize all viable spaces with plants. I am also frequently decorating delicious and [**tasty treats**](/hobbies). I dig roasting my own coffee, reading, and am loving learning how to be a better cyclist. Very soon I will start growing my own shitake mushrooms, mmMmMmm!
 
 <!--  -->
 
