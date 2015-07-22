@@ -24,4 +24,4 @@ Kvothe is a legend. Stories are written about him. Bards sing songs about him. B
 
 Rothfuss is a masterful storyteller - the book has quite an amazingly perfect cadence. It is chalk-full of adventure and excitement, but takes interludes between action to set a wonderful speed that kept this reader completely and totally engaged. The book is some 800 pages but I flew through it because it was so well done! Not only is it perfectly paced, but it's perfectly written! Often in fantasty books, I get distracted by language or grammar. This book is so well done that there were no distractions to be found. It allowed this reader to completely sink into the world of the book and enjoy the story unfolding.
 
-This book is nearly perfect for readers a penchant for stories full of fantasy, adventure, and magic!
+This book is nearly perfect for readers with a penchant for stories full of fantasy, adventure, and magic!
