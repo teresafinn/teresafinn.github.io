@@ -18,3 +18,5 @@ share: true
 [**The Name of the Wind**](http://www.amazon.com/Name-Wind-Kingkiller-Chronicle/dp/0756404746/ref=sr_1_1?s=books&ie=UTF8&qid=1437298364&sr=1-1&keywords=name+of+the+wind&pebp=1437298365619&perid=10FJZ4KEYJAPT3MYGPQR), Patrick Rothfuss
 
 I loved this book. It's well-written, engaging, delightfully narrated.
+
+As far as I'm concerned, this was everything that Lord of the Rings was not! I know, I know, it captured the imagination of youths everywhere, but reading it for the first time as an adult left me so disappointed. The movies are infinitely better than the books. Infinitely. No exaggeration!
