@@ -18,6 +18,14 @@ share: true
 [**The Name of the Wind**](http://www.amazon.com/Name-Wind-Kingkiller-Chronicle/dp/0756404746/ref=sr_1_1?s=books&ie=UTF8&qid=1437298364&sr=1-1&keywords=name+of+the+wind&pebp=1437298365619&perid=10FJZ4KEYJAPT3MYGPQR), Patrick Rothfuss
 
 
-As far as I'm concerned, this was everything that Lord of the Rings was not - well-written, engaging, deightful dialogue, gifted narration... I know, I know, the Lord of the Rings trilogy captured your imagination as well as the imaginations of youths everywhere. But (because of course there's a but)... reading it for the first time as an adult left me so disappointed. The movies are infinitely better than the books. Infinitely. No exaggeration! Anyway, The Name of the Wind...
+As far as I'm concerned, this was everything that Lord of the Rings was not - well-written, engaging, delightful dialogue, gifted narration... I know, I know, the Lord of the Rings trilogy captured your imagination as well as the imaginations of youths everywhere. But (because of course there's a but)... reading it for the first time as an adult left me so disappointed. The movies are infinitely better than the books. Infinitely. No exaggeration! Anyway, The Name of the Wind...
 
-The book is about a young
+Kvothe is a legend, who comes from a
+
+
+So begins the tale of Kvothe—from his childhood in a troupe of traveling players, to years spent as a near-feral orphan in a crime-riddled city, to his daringly brazen yet successful bid to enter a difficult and dangerous school of magic. In these pages you will come to know Kvothe as a notorious magician, an accomplished thief, a masterful musician, and an infamous assassin. But The Name of the Wind is so much more—for the story it tells reveals the truth behind Kvothe's legend.
+
+The cadence is amazing.
+
+The story is engaging and the writing is wonderful!
+
