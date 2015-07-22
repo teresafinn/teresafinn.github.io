@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Javascript vs. Ruby
-excerpt: "The fascinating differences between these two programming languages!"
+title: The Name of the Wind Book Review
+excerpt: "The way Lord of the Rings should have read..."
 modified:
 categories: articles
 tags:
@@ -15,15 +15,6 @@ share: true
 
 ### Thank you for your patience! I'm in the process of migrating my blog posts from a former location - full post to come soon!
 
-<!-- This is some pretty interesting stuff right here! I love the idea of exploring this!! -->
+[**The Name of the Wind**](http://www.amazon.com/Name-Wind-Kingkiller-Chronicle/dp/0756404746/ref=sr_1_1?s=books&ie=UTF8&qid=1437298364&sr=1-1&keywords=name+of+the+wind&pebp=1437298365619&perid=10FJZ4KEYJAPT3MYGPQR), Patrick Rothfuss
 
-<!-- This and self
-
-In JS syntax, there are no “end” to if statements. The syntax is different (and forgettable unfortunately. if (thing) { ;} else { ;}
-
-confirm, prompt, alert
-
-javascript makes global and local variables a little more transparent than ruby. In javascript you have to declare variables (e.g.: var x = 8). If you don’t declare a variable inside of a function (x = a + b) then you will be resetting the variable x you had declared earlier to the evaluation of a + b. I think this is a bit more transparent than it is in ruby. In Ruby you just have to KNOW that x = 8 in one context and x = something else in another context. tricky, tricky!
-
-declared function versus function expression.
-a declared function explicitly gives the function a name. a function expression assigns a function (either named or unnamed) to a variable. -->
+I loved this book. It's well-written, engaging, delightfully narrated.
