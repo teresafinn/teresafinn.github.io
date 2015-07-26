@@ -18,7 +18,7 @@ image:
 
 ## Skills and Abilities
 
-Check out my [**resume**](/images/finn-resume1.pdf) and [**github**](https://github.com/teresafinn) for an overview of my current projects, education, and more.
+Check out my [**resume**](/images/finn-resume2.pdf) and [**github**](https://github.com/teresafinn) for an overview of my current projects, education, and more.
 
 I am a technology enthusiast looking to work for an organization that promotes collaborative learning, authenticity, and curiosity. Ideally I would like to continue working in higher education as I love the university-setting and would like to bring my technology skills to help further the university mission. I'm passionate about user experience and enjoy developing all throughout the stack from the backend to the front. I approach problems from a user-centric perspective; empathy is core to my professional identity - creating products that suit the needs and requirements of users is second-nature. I've worked primarily with Ruby and Rails and am currently learning more about JavaScript and JQuery. I would be delighted to push the boundaries of my knowledge; I'm quick to learn new skills and technologies.
 
