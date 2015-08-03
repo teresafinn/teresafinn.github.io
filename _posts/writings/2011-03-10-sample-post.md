@@ -13,7 +13,10 @@ comments: true
 share: true
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+### Thank you for your patience! I'm in the process of migrating my blog posts from a former location - full post to come soon!
+
+
+<!-- Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 # Heading 1
 
@@ -94,3 +97,4 @@ Non Pygments/Rouge code example
 Make any link standout more when applying the `.btn` class.
 
 <div markdown="0"><a href="http://mademistakes.com" class="btn">This is a button</a></div>
+ -->

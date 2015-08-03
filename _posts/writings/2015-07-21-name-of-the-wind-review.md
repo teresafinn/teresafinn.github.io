@@ -13,7 +13,10 @@ comments: true
 share: true
 ---
 
-<img style="float: center; border: 5px solid black; height: 200" src="/images/name-of-the-wind.jpg">
+### Thank you for your patience! I'm in the process of migrating my blog posts from a former location - full post to come soon!
+
+
+<!-- <img style="float: center; border: 5px solid black; height: 200" src="/images/name-of-the-wind.jpg">
 
 [**The Name of the Wind**](http://www.amazon.com/Name-Wind-Kingkiller-Chronicle/dp/0756404746/ref=sr_1_1?s=books&ie=UTF8&qid=1437298364&sr=1-1&keywords=name+of+the+wind&pebp=1437298365619&perid=10FJZ4KEYJAPT3MYGPQR), Patrick Rothfuss
 
@@ -25,3 +28,4 @@ Kvothe is a legend. Stories are written about him. Bards sing songs about him. B
 Rothfuss is a masterful storyteller - the book has quite an amazingly perfect cadence. It is chalk-full of adventure and excitement, but takes interludes between action to set a wonderful speed that kept this reader completely and totally engaged. The book is some 800 pages but I flew through it because it was so well done! Not only is it perfectly paced, but it's perfectly written! Often in fantasty books, I get distracted by language or grammar. This book is so well done that there were no distractions to be found. It allowed this reader to completely sink into the world of the book and enjoy the story unfolding.
 
 This book is nearly perfect for readers with a penchant for stories full of fantasy, adventure, and magic!
+ -->
