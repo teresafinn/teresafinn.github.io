@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Name of the Wind - Book Review
+title: Name of the Wind - Book Review
 excerpt: "The way Lord of the Rings should have read..."
 modified:
 categories: articles
