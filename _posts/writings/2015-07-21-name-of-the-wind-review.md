@@ -13,9 +13,6 @@ comments: true
 share: true
 ---
 
-### Thank you for your patience! I'm in the process of migrating my blog posts from a former location - full post to come soon!
-
-
 <img style="float: center; border: 5px solid black; height: 200" src="/images/name-of-the-wind.jpg">
 
 [**The Name of the Wind**](http://www.amazon.com/Name-Wind-Kingkiller-Chronicle/dp/0756404746/ref=sr_1_1?s=books&ie=UTF8&qid=1437298364&sr=1-1&keywords=name+of+the+wind&pebp=1437298365619&perid=10FJZ4KEYJAPT3MYGPQR), Patrick Rothfuss
