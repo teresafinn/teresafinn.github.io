@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruby for Good and Open Source
-excerpt: "Contributing to open sources doesnt have to be intimidating!"
+excerpt: "Contributing to open source doesnt have to be intimidating!"
 modified:
 categories: articles
 tags:
