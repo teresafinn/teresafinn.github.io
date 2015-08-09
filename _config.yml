@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: A Stunned Block of Perfect Oddness
+title: Blocks of Oddness
 locale: en_US
-description: Exploring the unbelievably exciting things one can do with technology to make the world a better - and more beautiful - place.
+description: Exploring technology, books, and other things.
 logo: site-logo1.jpg
 search: true
 url: http://teresafinn.github.io
