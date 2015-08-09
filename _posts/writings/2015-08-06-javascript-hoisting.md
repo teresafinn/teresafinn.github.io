@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hoisting in Javascript
-excerpt: "The way Lord of the Rings should have read..."
+excerpt: "Does hoisting imply JS has no organization? :o"
 modified:
 categories: articles
 tags:
@@ -28,7 +28,6 @@ But what happens if you've assigned a function to a variable, you wonder? I wond
 
 I imagine a JavaScript spy glass scouring the code seeking out variable assignments and declared functions and then popping them into memory (with no pointer) (or rather with a pointer to undefined). I guess this is just a placeholder for when the assignment actually occurs in the program. So that's hoisting. Okay, cool. (For a much more cogent explanation of vocabulary and great insight into hoisting, see [**here**](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/).)
 
-So what is hoisting again? It's the offical name we give to the fact that the JavaScript interpreter will mess with the load order you had envisioned, unless you're explicitly aware and are writing your code to account for this behavior. Interesting. I dig rules, especially when I know about them.
+So what is hoisting again? It's the offical name we give to the fact that the JavaScript interpreter will mess with the load order you had envisioned, unless you're explicitly aware and are writing your code to account for this behavior. Interesting. I dig rules, especially when I know about them. But. Does this imply that when you write JavaScript you throw everything into one file and that there's no encapsulation or organization or that there's no such thing as well-designed JavaScript code...? Impossible!
 
-More to come shortly...
-
+I will answer this befuddling question soon. As soon as I learn enough to answer it. Because surely, *surely* JavaScript code crafters like to be organized and elegant and encapsulated and all that good stuff. I know it must be true because that is the only thing that would make sense. More later!
