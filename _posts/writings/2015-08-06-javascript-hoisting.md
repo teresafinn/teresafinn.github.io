@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hoisting in Javascript
-excerpt: "Does hoisting imply there is no encapsulation in JS? No way..."
+excerpt: "Does hoisting imply there's no encapsulation in JS? Say it ain't so!"
 modified:
 categories: articles
 tags:
