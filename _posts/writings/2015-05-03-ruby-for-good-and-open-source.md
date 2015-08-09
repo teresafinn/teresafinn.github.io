@@ -13,8 +13,6 @@ comments: true
 share: true
 ---
 
-### Thank you for your patience! I'm in the process of migrating my blog posts from a former location - full post to come soon!
-
 I am helping to organize a conference called Ruby for Good, a community-based service event, to help build non-profit organizations custom software or web applications that they might not otherwise be able to afford. This year it will take place at George Mason University from July 31-August 2nd. I am SUPER excited about it. I've spoken to so many non-profits to get project ideas and channel our energies to where they're really needed. Finally  we have it narrowed down to the Humane Society of Fairfax, the Denver GrowHaus, the World Wildlife Fund, the Purple Door, All Income Foods, Baltimore Arts, the US Vote Foundation, and the RSpec-Rails team. The projects really seem AMAZING and I can't wait for the weekend to get here!!
 
 One of the reasons I'm so excited about Ruby for Good this year is because it will afford me an entry point into open source! Nearly all my mentors, both formal and in-passing mentors, have advised me that I need to be contributing to open source in order to use my new-found skills. But contributing to open source seems intimidating! Where do you start? How do you find a project? How can you be effective when you're a new-comer to an established project, not to mention being relatively new to programming in general?! I find these waters difficult to navigate.
