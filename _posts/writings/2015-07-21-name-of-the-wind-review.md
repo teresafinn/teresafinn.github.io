@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Name of the Wind - Book Review
-excerpt: "The way Lord of the Rings should have read..."
+excerpt: "Perfectly balanced, well-written fantasy..."
 modified:
 categories: articles
 tags:
@@ -28,7 +28,7 @@ Kvothe as a character is interesting; he is an underdog, but brilliant at most e
 
 Rothfuss is a masterful storyteller - the book has an amazingly perfect cadence. It is chalk-full of adventure and excitement, but takes interludes between action to set a wonderful speed that kept this reader completely and totally engaged. The first book is some 800 pages but I flew through it because the world Rothfuss creates is so beautifully woven together. Not only is it perfectly paced, but it's perfectly written! Often in fantasty books, I get distracted by language or grammar, or perhaps the story and conflicts are shallow. This book is well-crafted; there are no distracting grammatical errors or clumsy phraseology. Conflict is balanced between internal and external struggles. I think more than anything else, the balance of all elements of the book allowed me to completely sink into Rothfuss's world and enjoy the unfolding story. There's a depth to the characters and the world they inhabit that could only be achieved through painstaking backstories only obvious to the reader with time.
 
-I've managed to speed through the second book of the trilogy, *The Wise Man's Fear* as well. At a whopping 1100 pages, you would think this would be difficult, but the story is, once again, compelling! It takes Rothfuss a bit longer to move the plot forward than initially expected, though. *The Wise Man's Fear* continues for the first few hundred pages much the same as the first book - Kvothe is still at the university studying magic, in a similar poverty-stricken condition, with the same friends, visiting a neighboring city to play music, and mostly living the same pattern of life. In fact, the beginning of *The Wise Man's Fear* is so similar to *The Name of the Wind* that I rather wonder why Rothfuss simply didn't lengthen the first book a bit in order to break the books on plot.
+I've managed to speed through the second book of the trilogy, *The Wise Man's Fear*, as well. At a whopping 1100 pages, you would think this would be difficult, but the story is - once again - compelling! It takes Rothfuss a bit longer to move the plot forward than initially expected, though. *The Wise Man's Fear* continues for the first few hundred pages much the same as the first book - Kvothe is still at the university studying magic, in a similar poverty-stricken condition, with the same friends, visiting a neighboring city to play music, and mostly living the same pattern of life. In fact, the beginning of *The Wise Man's Fear* is so similar to *The Name of the Wind* that I rather wonder why Rothfuss simply didn't lengthen the first book a bit in order to break the books on plot.
 
 As the book progresses the plot shifts and widens to encorporate Kvothe's experiences in different parts of the world, with diverse cultures, and complex social politics. There are some fun ideas in here - like a people who don't communicate with facial expressions but only in hand-gestures. Or a cloak woven literally from shadow and moonlight. Or a rather mysterious Naming teacher who knows much more than he lets on.
 
