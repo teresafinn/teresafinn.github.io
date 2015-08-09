@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Name of the Wind - Book Review
-excerpt: "Perfectly balanced, well-written fantasy..."
+excerpt: "Perfectly balanced, well-written fantasy"
 modified:
 categories: articles
 tags:
