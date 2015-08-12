@@ -38,7 +38,8 @@ image:
 * [**The Little Paris Bookshop**](http://www.amazon.com/Little-Paris-Bookshop-Novel/dp/0553418777/ref=sr_1_1?s=books&ie=UTF8&qid=1439406915&sr=1-1&keywords=the+Little+Paris+Bookshop), Nina George
 * [**Between the World and Me**](http://www.amazon.com/dp/0812993543/?tag=googhydr-20&hvadid=64161076970&hvpos=1t1&hvexid=&hvnetw=g&hvrand=3470789817298901395&hvpone=&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_31kvcig3sd_b), Ta-Nehisi Coates
 * [**The Sellout**](http://www.amazon.com/The-Sellout-Novel-Paul-Beatty/dp/0374260508), Paul Beatty
-* [**All The Light We Cannot See**](http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583/ref=sr_1_1?s=books&ie=UTF8&qid=1439407001&sr=1-1&keywords=all+the+light+we+cannot+see), Anthony Doerr* [**Everyday Rails Testing with RSpec**](https://leanpub.com/everydayrailsrspec?utm_content=buffer6b50a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Aaron Sumner
+* [**All The Light We Cannot See**](http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583/ref=sr_1_1?s=books&ie=UTF8&qid=1439407001&sr=1-1&keywords=all+the+light+we+cannot+see), Anthony Doerr
+* [**Everyday Rails Testing with RSpec**](https://leanpub.com/everydayrailsrspec?utm_content=buffer6b50a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Aaron Sumner
 * [**Capital in the 21st Century**](http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/067443000X/ref=sr_1_1?s=books&ie=UTF8&qid=1430772685&sr=1-1&keywords=capital+in+the+21st+century), Thomas Picketty
 
 
