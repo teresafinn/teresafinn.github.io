@@ -22,8 +22,8 @@ image:
 
 
 ## Currently Reading...
+* [**Hugo and Rose: A Novel**](http://www.amazon.com/Hugo-Rose-Novel-Bridget-Foley/dp/1250055792), Bridget Foley
 * <img style="padding-right: 20px" src="/images/javascript-and-jquery-book-cover.png">[**Javascript and JQuery**](http://javascriptbook.com/), Jon Duckett
-* [**The Wise Man's Fear**](http://www.amazon.com/The-Wise-Mans-Fear-Kingkiller/dp/0756407915), Patrick Rothfuss
 * [**Jonathan Strange and Mr. Norrell**](http://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell), Susanna Clarke - recommended to me by my friend Brian Glusman!
 
 
@@ -67,6 +67,7 @@ image:
 
 ## Recently Read...
 
+* [**The Wise Man's Fear**](http://www.amazon.com/The-Wise-Mans-Fear-Kingkiller/dp/0756407915), Patrick Rothfuss
 * [**The Name of the Wind**](http://www.amazon.com/Name-Wind-Kingkiller-Chronicle/dp/0756404746/ref=sr_1_1?s=books&ie=UTF8&qid=1437298364&sr=1-1&keywords=name+of+the+wind&pebp=1437298365619&perid=10FJZ4KEYJAPT3MYGPQR), Patrick Rothfuss
 * [**Ready Player One**](http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448), Ernest Cline
 * [**The Windup Girl**](http://www.amazon.com/The-Windup-Girl-Paolo-Bacigalupi/dp/1597801585), Paolo Bacigalupi
