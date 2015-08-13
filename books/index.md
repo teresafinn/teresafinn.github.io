@@ -34,6 +34,7 @@ image:
 ---
 
 ## Want To Read...
+* [**Drawing Ideas: A Hand-Drawn Approach for Better Design**](http://www.amazon.com/Drawing-Ideas-Hand-Drawn-Approach-Better/dp/0385344627), Mark Baskinger
 * [**Speak**](http://www.amazon.com/gp/product/0062391194), Louisa Hall
 * [**The Little Paris Bookshop**](http://www.amazon.com/gp/product/0553418777), Nina George
 * [**Between the World and Me**](http://www.amazon.com/dp/0812993543), Ta-Nehisi Coates
