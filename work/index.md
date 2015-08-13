@@ -42,7 +42,7 @@ Community is very important to me so I try to participate as much as possible in
 ## What I'm Looking For
 The three main things I am looking for:
 
-* **Meaningful work** and projects that help me grow my technical skills
+* **Meaningful work** and projects that help me grow my skills
 * **Good people** and a collaborative environment that promotes learning and mentorship
 * **Flexibility** to work across the technical stack
 
@@ -74,7 +74,7 @@ Am I a perfect fit for your organization? Please get in <strong><a href="mailto:
 
 **You did what now? What's this cake baking business...?**
 
-<p class="tfindent"> I really love creating things. And also eating. Cake decorating is one way in which I can be creative, detail-oriented, eat tasty things, and have a lot of fun. I had a blast as a baker and still bake lots in my free time. Take a look at some of the <strong><a href="/hobbies">tasty treats</a></strong> I've made!</p>
+<p class="tfindent"> I really love creating things. And also eating. Cake decorating is one way in which I can be creative, detail-oriented, eat tasty things, and have a lot of fun. I had a blast as a baker and still bake lots in my free time. Take a look at some of the <strong><a href="/cake-pictures">tasty treats</a></strong> I've made!</p>
 
 **How do you feel about working remotely?**
 
