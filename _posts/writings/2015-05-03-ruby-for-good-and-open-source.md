@@ -7,7 +7,7 @@ categories: articles
 tags:
 image:
   feature:
-  credit\
+  credit:
   creditlink:
 comments: true
 share: true
