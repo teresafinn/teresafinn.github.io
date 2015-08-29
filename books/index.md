@@ -22,10 +22,11 @@ image:
 
 
 ## Currently Reading...
-* [**Hugo and Rose: A Novel**](http://www.amazon.com/Hugo-Rose-Novel-Bridget-Foley/dp/1250055792), Bridget Foley
+* [**Between the World and Me**](http://www.amazon.com/dp/0812993543), Ta-Nehisi Coates
+* [**Speak**](http://www.amazon.com/gp/product/0062391194), Louisa Hall
 * <img style="padding-right: 20px" src="/images/javascript-and-jquery-book-cover.png">[**Javascript and JQuery**](http://javascriptbook.com/), Jon Duckett
-* [**Jonathan Strange and Mr. Norrell**](http://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell), Susanna Clarke - recommended to me by my friend Brian Glusman!
-
+<!-- * [**Jonathan Strange and Mr. Norrell**](http://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell), Susanna Clarke - recommended to me by my friend Brian Glusman!
+ -->
 
 <br/>
 
@@ -35,14 +36,14 @@ image:
 
 ## Want To Read...
 * [**Drawing Ideas: A Hand-Drawn Approach for Better Design**](http://www.amazon.com/Drawing-Ideas-Hand-Drawn-Approach-Better/dp/0385344627), Mark Baskinger
-* [**Speak**](http://www.amazon.com/gp/product/0062391194), Louisa Hall
 * [**The Little Paris Bookshop**](http://www.amazon.com/gp/product/0553418777), Nina George
-* [**Between the World and Me**](http://www.amazon.com/dp/0812993543), Ta-Nehisi Coates
-* [**The Sellout**](http://www.amazon.com/The-Sellout-Novel-Paul-Beatty/dp/0374260508), Paul Beatty
+* [**Wittgenstein's Mistress**](http://www.amazon.com/Wittgensteins-Mistress-David-Markson/dp/1564782115), David Markson
 * [**All The Light We Cannot See**](http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583), Anthony Doerr
 * [**Everyday Rails Testing with RSpec**](https://leanpub.com/everydayrailsrspec?utm_content=buffer6b50a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Aaron Sumner
-* [**Capital in the 21st Century**](http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/067443000X), Thomas Picketty
 
+
+
+<!-- * [**Capital in the 21st Century**](http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/067443000X), Thomas Picketty -->
 
 <!-- * [**Git for Teams**](http://gitforteams.com/), Emma Jane Westby -->
 
@@ -58,8 +59,6 @@ image:
 
 <!-- Selfish, Shallow, and Self-Absorbed: Sixteen Writers on the Decision Not to Have Kids -->
 
-<!-- Two Books from Tattered Cover -->
-
 <!-- Charles Taylor book at Tattered Cover -->
 
 <!-- * [**The Wallcreeper**](http://www.amazon.com/The-Wallcreeper-Nell-Zink/dp/0989760715), Nell Zink -->
@@ -72,6 +71,7 @@ image:
 
 ## Recently Read...
 
+* [**Hugo and Rose: A Novel**](http://www.amazon.com/Hugo-Rose-Novel-Bridget-Foley/dp/1250055792), Bridget Foley
 * [**The Wise Man's Fear**](http://www.amazon.com/The-Wise-Mans-Fear-Kingkiller/dp/0756407915), Patrick Rothfuss
 * [**The Name of the Wind**](http://www.amazon.com/Name-Wind-Kingkiller-Chronicle/dp/0756404746/ref=sr_1_1?s=books&ie=UTF8&qid=1437298364&sr=1-1&keywords=name+of+the+wind&pebp=1437298365619&perid=10FJZ4KEYJAPT3MYGPQR), Patrick Rothfuss
 * [**Ready Player One**](http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448), Ernest Cline
