@@ -35,10 +35,10 @@ image:
 ---
 
 ## Want To Read...
-* [**Drawing Ideas: A Hand-Drawn Approach for Better Design**](http://www.amazon.com/Drawing-Ideas-Hand-Drawn-Approach-Better/dp/0385344627), Mark Baskinger
 * [**The Little Paris Bookshop**](http://www.amazon.com/gp/product/0553418777), Nina George
 * [**Wittgenstein's Mistress**](http://www.amazon.com/Wittgensteins-Mistress-David-Markson/dp/1564782115), David Markson
 * [**All The Light We Cannot See**](http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583), Anthony Doerr
+* [**Drawing Ideas: A Hand-Drawn Approach for Better Design**](http://www.amazon.com/Drawing-Ideas-Hand-Drawn-Approach-Better/dp/0385344627), Mark Baskinger
 * [**Everyday Rails Testing with RSpec**](https://leanpub.com/everydayrailsrspec?utm_content=buffer6b50a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Aaron Sumner
 
 
