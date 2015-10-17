@@ -53,8 +53,8 @@ I'd love to work for a company culture that promotes:
 * **Benefits** - Health insurance and 401k match would be incredible.
 * **Professional development and mentorship** — I'm very eager to learn new things and want to soak up all opportunities possible, including attending conferences. An added bonus if your organization invests in local community.
 <!-- * **Travel** — I love to travel and would relish the opportunity to travel to different cities and countries. If you're looking for a traveler, I'm your woman! -->
-* **Start Date** — Sometime around fall 2015.
-* **Location** — I am currently located in Denver, CO, but in fall 2015 I will be relocating to the Washington DC area and am looking for a position there! I am also open to remote work.
+* **Start Date** — Sometime around December-January 2016.
+* **Location** — I am currently the Washington DC area but am very open to remote work!
 
 
 ---
