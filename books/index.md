@@ -22,9 +22,16 @@ image:
 
 
 ## Currently Reading...
-* [**Between the World and Me**](http://www.amazon.com/dp/0812993543), Ta-Nehisi Coates
-* [**Speak**](http://www.amazon.com/gp/product/0062391194), Louisa Hall
-* <img style="padding-right: 20px" src="/images/javascript-and-jquery-book-cover.png">[**Javascript and JQuery**](http://javascriptbook.com/), Jon Duckett
+
+* [**A Northern Light**](http://www.amazon.com/Northern-Light-Jennifer-Donnelly/dp/0152053107/), Jennifer Donnelly
+* [**Hold Still: A Memoir with Photographs**](http://www.amazon.com/Hold-Still-Photographs-Sally-Mann/dp/0316247766), Sally Mann
+
+* [**The Professor: A Sentimental Education**](http://www.amazon.com/The-Professor-A-Sentimental-Education/dp/0061670928), Terry Castle
+
+<!-- * [**All The Light We Cannot See**](http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583), Anthony Doerr -->
+
+
+<!-- * <img style="padding-right: 20px" src="/images/javascript-and-jquery-book-cover.png">[**Javascript and JQuery**](http://javascriptbook.com/), Jon Duckett -->
 <!-- * [**Jonathan Strange and Mr. Norrell**](http://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell), Susanna Clarke - recommended to me by my friend Brian Glusman!
  -->
 
@@ -35,13 +42,16 @@ image:
 ---
 
 ## Want To Read...
+* [**Sight Singing Made Simple**](http://www.amazon.com/Sight-Singing-Made-Simple-Book/dp/0793599733), David Bauguess
+* [**The World Doesn't End**](http://www.amazon.com/The-World-Doesnt-Charles-Simic/dp/0156983508), Charles Simic
+* [**The Wallcreeper**](http://www.amazon.com/The-Wallcreeper-Nell-Zink/dp/0989760715), Nell Zink
 * [**The Little Paris Bookshop**](http://www.amazon.com/gp/product/0553418777), Nina George
 * [**Wittgenstein's Mistress**](http://www.amazon.com/Wittgensteins-Mistress-David-Markson/dp/1564782115), David Markson
 * [**All The Light We Cannot See**](http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583), Anthony Doerr
 * [**Drawing Ideas: A Hand-Drawn Approach for Better Design**](http://www.amazon.com/Drawing-Ideas-Hand-Drawn-Approach-Better/dp/0385344627), Mark Baskinger
-* [**Everyday Rails Testing with RSpec**](https://leanpub.com/everydayrailsrspec?utm_content=buffer6b50a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Aaron Sumner
 
 
+<!-- * [**Everyday Rails Testing with RSpec**](https://leanpub.com/everydayrailsrspec?utm_content=buffer6b50a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Aaron Sumner -->
 
 <!-- * [**Capital in the 21st Century**](http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/067443000X), Thomas Picketty -->
 
@@ -53,15 +63,13 @@ image:
 
 <!-- DEPT. OF SPECULATION, Jenny Offill -->
 
-<!-- HOLD STILL: A Memoir with Photographs, Sally Mann -->
-
 <!-- The Unfortunate Importance of Beauty, Amanda Filipacchi -->
 
 <!-- Selfish, Shallow, and Self-Absorbed: Sixteen Writers on the Decision Not to Have Kids -->
 
 <!-- Charles Taylor book at Tattered Cover -->
 
-<!-- * [**The Wallcreeper**](http://www.amazon.com/The-Wallcreeper-Nell-Zink/dp/0989760715), Nell Zink -->
+<!-- All the Birds in the Sky, Charlie Jane Anders -->
 
 
 
@@ -71,7 +79,15 @@ image:
 
 ## Recently Read...
 
-* [**Hugo and Rose: A Novel**](http://www.amazon.com/Hugo-Rose-Novel-Bridget-Foley/dp/1250055792), Bridget Foley
+<!-- 2016 -->
+
+
+
+<!-- 2015 -->
+* [**Fates and Furies**](http://www.amazon.com/Fates-Furies-Novel-Lauren-Groff/dp/1594634475), Lauren Groff
+* [**The Martian**](http://www.amazon.com/Martian-Andy-Weir/dp/0553418025), Andy Weir
+* [**Between the World and Me**](http://www.amazon.com/dp/0812993543), Ta-Nehisi Coates
+* [**Speak**](http://www.amazon.com/gp/product/0062391194), Louisa Hall
 * [**The Wise Man's Fear**](http://www.amazon.com/The-Wise-Mans-Fear-Kingkiller/dp/0756407915), Patrick Rothfuss
 * [**The Name of the Wind**](http://www.amazon.com/Name-Wind-Kingkiller-Chronicle/dp/0756404746/ref=sr_1_1?s=books&ie=UTF8&qid=1437298364&sr=1-1&keywords=name+of+the+wind&pebp=1437298365619&perid=10FJZ4KEYJAPT3MYGPQR), Patrick Rothfuss
 * [**Ready Player One**](http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448), Ernest Cline
@@ -79,7 +95,7 @@ image:
 * [**Lady Chatterley's Lover**](http://www.amazon.com/Lady-Chatterleys-Lover-Unexpurgated-Edition-ebook/dp/B003VPX1XY), D.H. Lawrence
 * [**The Well-Grounded Rubyist**](http://www.manning.com/black2/), David Black
 
-
+<!-- * [**Hugo and Rose: A Novel**](http://www.amazon.com/Hugo-Rose-Novel-Bridget-Foley/dp/1250055792), Bridget Foley -->
 
 <br/>
 
