@@ -24,6 +24,7 @@ image:
 ## Currently Reading...
 
 * [**A Northern Light**](http://www.amazon.com/Northern-Light-Jennifer-Donnelly/dp/0152053107/), Jennifer Donnelly
+
 * [**Hold Still: A Memoir with Photographs**](http://www.amazon.com/Hold-Still-Photographs-Sally-Mann/dp/0316247766), Sally Mann
 
 * [**The Professor: A Sentimental Education**](http://www.amazon.com/The-Professor-A-Sentimental-Education/dp/0061670928), Terry Castle
