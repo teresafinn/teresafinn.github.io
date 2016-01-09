@@ -24,6 +24,6 @@ In striving to develop an authentic voice, one that reflects the vagaries of my 
 
 Public solitude. Or perhaps just "solitude," nothing public about it. Maybe the "public" comes after the solitude so there's no interference in being fully present, wholely authentic. What of it if I explore an idea, no tangible conclusion on which to cleave.
 
-When writing, do you not frantically consider: who is the audience, how to shape their perception, what do I want them to see? Of course appropriate in some cases, no doubt - a school assignment, a letter to the boss. But in fiction? In essay? How infinitely fun to be free of self-conscious awareness of reader perception!
+When writing, do you not frantically consider: who is the audience, how to shape their perception, what do I want them to see? Of course appropriate in some cases, no doubt - a school assignment, a letter to the boss. But in fiction? In essay? How infinitely fun to be free of self-conscious awareness of reader perception! "...let us read the word “I” and feel that it’s not attached to a product."
 
 I suppose the challenge is to write clearly, given one is so familiar with one's own thoughts. Clearly, logically, but adhering to the reality living "inside the scene." How can you be accountable to two audiences, afterall? The one taking precedence should be the one in your head. Eager to try this!
