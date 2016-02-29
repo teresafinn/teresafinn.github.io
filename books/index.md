@@ -79,11 +79,13 @@ image:
 ## Recently Read...
 
 2016
+
 * [**Between the World and Me**](http://www.amazon.com/dp/0812993543), Ta-Nehisi Coates
 * [**A Northern Light**](http://www.amazon.com/Northern-Light-Jennifer-Donnelly/dp/0152053107/), Jennifer Donnelly
 
 
 2015
+
 * [**Fates and Furies**](http://www.amazon.com/Fates-Furies-Novel-Lauren-Groff/dp/1594634475), Lauren Groff
 * [**The Martian**](http://www.amazon.com/Martian-Andy-Weir/dp/0553418025), Andy Weir
 * [**Speak**](http://www.amazon.com/gp/product/0062391194), Louisa Hall
