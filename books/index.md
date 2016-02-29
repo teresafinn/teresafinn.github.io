@@ -52,12 +52,6 @@ image:
 
 <!-- * [**Everyday Rails Testing with RSpec**](https://leanpub.com/everydayrailsrspec?utm_content=buffer6b50a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Aaron Sumner -->
 
-<!-- * [**Capital in the 21st Century**](http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/067443000X), Thomas Picketty -->
-
-<!-- * [**Git for Teams**](http://gitforteams.com/), Emma Jane Westby -->
-
-<!-- Nicely Said: Writing for the Web with Style and Purpose -->
-
 <!-- Riotous Assembly, Tom Sharpe -->
 
 <!-- DEPT. OF SPECULATION, Jenny Offill -->
