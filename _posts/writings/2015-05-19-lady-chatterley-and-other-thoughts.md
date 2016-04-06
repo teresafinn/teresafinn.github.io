@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lady Chatterly's Lover and Other Miscellany
-excerpt: "Contributing to open source doesnt have to be intimidating."
+title: Lady Chatterly's Lover... and Other Miscellany
+excerpt: "More than simply sex."
 modified:
 categories: articles
 tags:
