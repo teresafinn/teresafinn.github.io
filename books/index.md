@@ -23,12 +23,9 @@ image:
 
 ## Currently Reading...
 
-* [**Hold Still: A Memoir with Photographs**](http://www.amazon.com/Hold-Still-Photographs-Sally-Mann/dp/0316247766), Sally Mann
+* [**Infinite Jest**](http://www.amazon.com/Infinite-Jest-David-Foster-Wallace/dp/0316066524), David Foster Wallace
 
-* [**All The Light We Cannot See**](http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583), Anthony Doerr
-
-* [**The Professor: A Sentimental Education**](http://www.amazon.com/The-Professor-A-Sentimental-Education/dp/0061670928), Terry Castle
-
+* [**Lesson Plan: An Agenda for Change in American Higher Education**](http://www.amazon.com/Lesson-Plan-Agenda-American-Education-ebook/dp/B018T6DEZ4), William Bowen and Michael McPherson
 
 <!-- * <img style="padding-right: 20px" src="/images/javascript-and-jquery-book-cover.png">[**Javascript and JQuery**](http://javascriptbook.com/), Jon Duckett -->
 <!-- * [**Jonathan Strange and Mr. Norrell**](http://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell), Susanna Clarke - recommended to me by my friend Brian Glusman!
@@ -41,10 +38,16 @@ image:
 ---
 
 ## Want To Read...
+* [**The Professor: A Sentimental Education**](http://www.amazon.com/The-Professor-A-Sentimental-Education/dp/0061670928), Terry Castle
+
 * [**Sight Singing Made Simple**](http://www.amazon.com/Sight-Singing-Made-Simple-Book/dp/0793599733), David Bauguess
+
 * [**The World Doesn't End**](http://www.amazon.com/The-World-Doesnt-Charles-Simic/dp/0156983508), Charles Simic
+
 * [**The Wallcreeper**](http://www.amazon.com/The-Wallcreeper-Nell-Zink/dp/0989760715), Nell Zink
+
 * [**The Little Paris Bookshop**](http://www.amazon.com/gp/product/0553418777), Nina George
+
 * [**Wittgenstein's Mistress**](http://www.amazon.com/Wittgensteins-Mistress-David-Markson/dp/1564782115), David Markson
 
 * [**Drawing Ideas: A Hand-Drawn Approach for Better Design**](http://www.amazon.com/Drawing-Ideas-Hand-Drawn-Approach-Better/dp/0385344627), Mark Baskinger
@@ -74,6 +77,8 @@ image:
 
 2016
 
+* [**Hold Still: A Memoir with Photographs**](http://www.amazon.com/Hold-Still-Photographs-Sally-Mann/dp/0316247766), Sally Mann
+* [**All The Light We Cannot See**](http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583), Anthony Doerr
 * [**Between the World and Me**](http://www.amazon.com/dp/0812993543), Ta-Nehisi Coates
 * [**A Northern Light**](http://www.amazon.com/Northern-Light-Jennifer-Donnelly/dp/0152053107/), Jennifer Donnelly
 
