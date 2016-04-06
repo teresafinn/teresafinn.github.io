@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Male Bodies
-excerpt: "It is difficult to marshall proof of a perception that builds slowly with time and experience..."
+title: Lesson Plan
+excerpt: Education: To learn or to earn?
 modified:
 categories: articles
 tags:
@@ -13,17 +13,9 @@ comments: true
 share: true
 ---
 
-I am reading a memoir and one of the lines reminded me of something we were talking about.
+School: to learn or to earn? This has so many implications for the way we educate. Trade school v. liberal arts education. Ability/interest in critical thinking v. producing something tangible. Not mutually exclusive, of course, but each lends itself to an educational system. Shall we prioritize broad learning or a bigger paycheck?
 
-I told you I admire men physically. And that it's intense and visceral. I told you that my sentiment seems to... stand out, run against the tide, of popular culture. I've read and heard numerous things indicating that a man's body isn't as beautiful as a woman's—from both men and women. When I mentioned this, you didnt really demonstrate that you understood. You asked me to explain. You wanted more details.
+Discussing individual return on investment in education, Bowen and McPherson write:
+>"We also embrace the truth that the benefits of education extend well beyond those of a bigger paycheck or even a financially better-off society. Few Americans, however, have the luxury of divorcing their plans for education from their concerns for a secure livelihood or for a more prosperous society." — [Lesson Plan: An Agenda for Change in American Higher Education](http://www.amazon.com/Lesson-Plan-Agenda-American-Education-ebook/dp/B018T6DEZ4)
 
-It is (and was) difficult to marshall proof of a perception that builds slowly with time and experience; cultural sentiment is ephemeral and ever-changing, after all. And it is (and was) difficult to exactly pinpoint why my view seems to stand at contradistinction to what seems an intangible yet very pervasive "feeling" that men's bodies are not... as beautiful, as revered, as pleasing.
-
-I never read memoirs. But this one interested me: [**Hold Still**](http://www.amazon.com/Hold-Still-A-Memoir-Photographs/dp/0316247766) by Sally Mann. She's a controversial photographer who was crucified in the early 90's for publishing nude pictures of her children.
-
-Reflecting on photographs she's taken of her husband, she writes:
->"While working on these pictures, I joined the thinly populated group of women who have looked unflinchingly at men, and who frequently have been punished for doing so... I can think of numerous male artists, from Bonnard to Weston to Stieglitz, who have photographed their lovers and spouses, but I am having trouble finding parallel examples among my sister photographers. The act of looking appraisingly at a man, studying his body and asking to photograph him, is a brazen venture for a woman; for a male photographer, these acts are commonplace, even expected."
-
-I wonder, is that proof enough? Shall I contradict myself with reference to Michelangelo's David? "A different time and culture, a different mythology, a different politics," I argue. So are men's bodies as admired, as glorified, as sexualized, as women's? Is my premise sound?
-
-I'm not sure one can definitively "prove" a cultural thread. And to the extent one can, how rigid to impose such structure on human fluidity. Would that I could generate on demand reference to a fabulously learned person renouncing a positive ontology when considering culture.
+Touche, Bowen and McPherson. Well said. And so reflection on the learn/earn debate becomes frivolous. Maybe even irresponsible.
