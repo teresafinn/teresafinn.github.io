@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Male Bodies
-excerpt: "It is difficult to marshall proof of a perception that builds slowly with time and experience..."
+excerpt: "It is difficult to marshall proof of a perception that builds slowly with time and experience."
 modified:
 categories: articles
 tags:
