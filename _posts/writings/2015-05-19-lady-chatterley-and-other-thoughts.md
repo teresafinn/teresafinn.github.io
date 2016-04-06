@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-Review of [Lady Chatterley’s Lover](http://www.amazon.com/Lady-Chatterleys-Lover-D-H-Lawrence/dp/193425519X) (in process)
+Review of [**Lady Chatterley’s Lover**](http://www.amazon.com/Lady-Chatterleys-Lover-D-H-Lawrence/dp/193425519X) (in process)
 
 As I read, it sometimes has an Ayn Randian-feel to it; Lawrence preaches his politico-moral views of the world: industry is evil, the mind is our downfall. (As in, being hyper rational so as to not allow elemental sensation, so as to negate what it means to be human, is wrong.)
 

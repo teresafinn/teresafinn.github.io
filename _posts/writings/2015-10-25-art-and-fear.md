@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-Take note, dreamer. There is a famous parable in the book [Art and Fear](http://www.amazon.com/Art-Fear-Observations-Rewards-Artmaking/dp/0961454733) that goes like this:
+Take note, dreamer. There is a famous parable in the book [**Art and Fear**](http://www.amazon.com/Art-Fear-Observations-Rewards-Artmaking/dp/0961454733) that goes like this:
 
 "The ceramics teacher announced on opening day that he was dividing the class into two groups. All those on the left side of the studio, he said, would be graded solely on the quantity of work they produced, all those on the right solely on its quality.
 
