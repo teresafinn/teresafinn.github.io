@@ -30,4 +30,4 @@ I imagine a JavaScript spy glass scouring the code seeking out variable assignme
 
 So what is hoisting again? It's the offical name we give to the fact that the JavaScript interpreter will mess with the load order you had envisioned, unless you're explicitly aware and are writing your code to account for this behavior. Interesting. I dig rules, especially when I know about them. But. Does this imply that when you write JavaScript you throw everything into one file and that there's no encapsulation or organization or that there's no such thing as well-designed JavaScript code...? Impossible!
 
-I will tackle this befuddling question soon. As soon as I learn enough to answer it. Because surely, *surely* JavaScript code crafters like to be organized and elegant and encapsulated and all that good stuff. More later!
+I will tackle this befuddling question soon. As soon as I learn enough to answer it. Because surely, *surely* JavaScript code crafters like to be organized and elegant and encapsulated and all that good stuff.
