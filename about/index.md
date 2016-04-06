@@ -15,7 +15,7 @@ image:
 
 <!-- I find the modern web development stack fascinating and love learning how the many pieces fit together.  -->
 
-The puzzles represented by systems - technological systems, organizational systems, sociological systems - are endlessly engaging. I love mapping out how things work together to create a unified whole, which maybe explains my background in higher ed, philosophy, cake decorating, political science, and plants - all systems oriented interests!
+The puzzles represented by systems - technological systems, organizational systems, sociological systems - are endlessly engaging. I love mapping out how things work together to create a unified whole, which maybe explains my background in higher ed, philosophy, political science, and plants - all systems oriented interests!
 
 I love challenges, people, and figuring out the whys. I have wide ranging interests and experiences - I've worked as a currency trader, English teacher in China, international trade analyst, cake decorator, higher ed administrator, fledgling academic, barista, and more. Particularly delightful topics for me: digital journalism and the changes to news delivery, enagaging communities through technology, all the social sciences, the intersection of liberal arts and technology, and the complicated system of higher ed. I am a huge believer in the power and importance of communities - I help organize [**Ruby for Good**](http://rubyforgood.com) and designed this beautiful [**logo**](/images/ruby-for-good-logo.jpg) for our annual meeting.
 
