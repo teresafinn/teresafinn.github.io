@@ -22,8 +22,8 @@ image:
 
 
 ## Currently Reading...
-
-* [**Infinite Jest**](http://www.amazon.com/Infinite-Jest-David-Foster-Wallace/dp/0316066524), David Foster Wallace
+* [**Red Rising Trilogy**](https://www.amazon.com/Red-Rising-Pierce-Brown/dp/034553980X), Pierce Brown
+* [**Snow Falling on Cedars**](https://www.amazon.com/Snow-Falling-Cedars-David-Guterson/dp/067976402X), David Guterson
 * [**Lesson Plan: An Agenda for Change in American Higher Education**](http://www.amazon.com/Lesson-Plan-Agenda-American-Education-ebook/dp/B018T6DEZ4), William Bowen and Michael McPherson
 
 <!-- * <img style="padding-right: 20px" src="/images/javascript-and-jquery-book-cover.png">[**Javascript and JQuery**](http://javascriptbook.com/), Jon Duckett -->
@@ -37,14 +37,12 @@ image:
 ---
 
 ## Want To Read...
-* [**The Professor: A Sentimental Education**](http://www.amazon.com/The-Professor-A-Sentimental-Education/dp/0061670928), Terry Castle
-* [**Sight Singing Made Simple**](http://www.amazon.com/Sight-Singing-Made-Simple-Book/dp/0793599733), David Bauguess
+* [**Wittgenstein's Mistress**](http://www.amazon.com/Wittgensteins-Mistress-David-Markson/dp/1564782115), David Markson
 * [**The World Doesn't End**](http://www.amazon.com/The-World-Doesnt-Charles-Simic/dp/0156983508), Charles Simic
 * [**The Wallcreeper**](http://www.amazon.com/The-Wallcreeper-Nell-Zink/dp/0989760715), Nell Zink
 * [**The Little Paris Bookshop**](http://www.amazon.com/gp/product/0553418777), Nina George
-* [**Wittgenstein's Mistress**](http://www.amazon.com/Wittgensteins-Mistress-David-Markson/dp/1564782115), David Markson
 * [**Drawing Ideas: A Hand-Drawn Approach for Better Design**](http://www.amazon.com/Drawing-Ideas-Hand-Drawn-Approach-Better/dp/0385344627), Mark Baskinger
-
+* [**Infinite Jest**](http://www.amazon.com/Infinite-Jest-David-Foster-Wallace/dp/0316066524), David Foster Wallace
 
 <!-- * [**Everyday Rails Testing with RSpec**](https://leanpub.com/everydayrailsrspec?utm_content=buffer6b50a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Aaron Sumner -->
 
@@ -60,8 +58,10 @@ image:
 
 <!-- All the Birds in the Sky, Charlie Jane Anders -->
 
+<!-- * [**Sight Singing Made Simple**](http://www.amazon.com/Sight-Singing-Made-Simple-Book/dp/0793599733), David Bauguess -->
 
-
+<!-- * [**The Professor: A Sentimental Education**](http://www.amazon.com/The-Professor-A-Sentimental-Education/dp/0061670928), Terry Castle
+ -->
 <br/>
 
 ---
@@ -70,6 +70,7 @@ image:
 
 2016
 
+* [**I Capture the Castle**](https://www.amazon.com/I-Capture-Castle-Dodie-Smith/dp/031231616X/), Dodie Smith
 * [**Hold Still: A Memoir with Photographs**](http://www.amazon.com/Hold-Still-Photographs-Sally-Mann/dp/0316247766), Sally Mann
 * [**All The Light We Cannot See**](http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583), Anthony Doerr
 * [**Between the World and Me**](http://www.amazon.com/dp/0812993543), Ta-Nehisi Coates
