@@ -22,9 +22,11 @@ image:
 
 
 ## Currently Reading...
-* [**Red Rising Trilogy**](https://www.amazon.com/Red-Rising-Pierce-Brown/dp/034553980X), Pierce Brown
-* [**Snow Falling on Cedars**](https://www.amazon.com/Snow-Falling-Cedars-David-Guterson/dp/067976402X), David Guterson
-* [**Lesson Plan: An Agenda for Change in American Higher Education**](http://www.amazon.com/Lesson-Plan-Agenda-American-Education-ebook/dp/B018T6DEZ4), William Bowen and Michael McPherson
+* [**It Can't Happen Here**](https://www.amazon.com/Cant-Happen-Here-Signet-Classics/dp/0451465644/), Sinclair Lewis
+* [**Winter's Tale**](https://www.amazon.com/Winters-Tale-Mark-Helprin/dp/0156031191), Mark Helprin
+* [**Vampires in the Lemon Grove: And Other Stories**](https://www.amazon.com/Vampires-Lemon-Grove-Stories-Contemporaries/dp/0307947475), Karen Russell
+* [**The Little Paris Bookshop**](http://www.amazon.com/gp/product/0553418777), Nina George
+
 
 <!-- * <img style="padding-right: 20px" src="/images/javascript-and-jquery-book-cover.png">[**Javascript and JQuery**](http://javascriptbook.com/), Jon Duckett -->
 <!-- * [**Jonathan Strange and Mr. Norrell**](http://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell), Susanna Clarke - recommended to me by my friend Brian Glusman!
@@ -37,12 +39,13 @@ image:
 ---
 
 ## Want To Read...
+* [**American Philosophy: A Love Story**](https://www.amazon.com/American-Philosophy-Story-John-Kaag/dp/0374154481), John Kaag
 * [**Wittgenstein's Mistress**](http://www.amazon.com/Wittgensteins-Mistress-David-Markson/dp/1564782115), David Markson
 * [**The World Doesn't End**](http://www.amazon.com/The-World-Doesnt-Charles-Simic/dp/0156983508), Charles Simic
 * [**The Wallcreeper**](http://www.amazon.com/The-Wallcreeper-Nell-Zink/dp/0989760715), Nell Zink
-* [**The Little Paris Bookshop**](http://www.amazon.com/gp/product/0553418777), Nina George
 * [**Drawing Ideas: A Hand-Drawn Approach for Better Design**](http://www.amazon.com/Drawing-Ideas-Hand-Drawn-Approach-Better/dp/0385344627), Mark Baskinger
 * [**Infinite Jest**](http://www.amazon.com/Infinite-Jest-David-Foster-Wallace/dp/0316066524), David Foster Wallace
+* [**Lesson Plan: An Agenda for Change in American Higher Education**](http://www.amazon.com/Lesson-Plan-Agenda-American-Education-ebook/dp/B018T6DEZ4), William Bowen and Michael McPherson
 
 <!-- * [**Everyday Rails Testing with RSpec**](https://leanpub.com/everydayrailsrspec?utm_content=buffer6b50a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Aaron Sumner -->
 
@@ -75,6 +78,8 @@ image:
 * [**All The Light We Cannot See**](http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583), Anthony Doerr
 * [**Between the World and Me**](http://www.amazon.com/dp/0812993543), Ta-Nehisi Coates
 * [**A Northern Light**](http://www.amazon.com/Northern-Light-Jennifer-Donnelly/dp/0152053107/), Jennifer Donnelly
+* [**Red Rising Trilogy**](https://www.amazon.com/Red-Rising-Pierce-Brown/dp/034553980X), Pierce Brown
+* [**Snow Falling on Cedars**](https://www.amazon.com/Snow-Falling-Cedars-David-Guterson/dp/067976402X), David Guterson
 
 
 2015
