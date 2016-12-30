@@ -73,13 +73,14 @@ image:
 
 2016
 
+* [**The Sky is Everywhere**](https://www.amazon.com/Sky-Everywhere-Jandy-Nelson/dp/0142417807), Jandy Nelson
+* [**Red Rising Trilogy**](https://www.amazon.com/Red-Rising-Pierce-Brown/dp/034553980X), Pierce Brown
+* [**Snow Falling on Cedars**](https://www.amazon.com/Snow-Falling-Cedars-David-Guterson/dp/067976402X), David Guterson
 * [**I Capture the Castle**](https://www.amazon.com/I-Capture-Castle-Dodie-Smith/dp/031231616X/), Dodie Smith
 * [**Hold Still: A Memoir with Photographs**](http://www.amazon.com/Hold-Still-Photographs-Sally-Mann/dp/0316247766), Sally Mann
 * [**All The Light We Cannot See**](http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583), Anthony Doerr
 * [**Between the World and Me**](http://www.amazon.com/dp/0812993543), Ta-Nehisi Coates
 * [**A Northern Light**](http://www.amazon.com/Northern-Light-Jennifer-Donnelly/dp/0152053107/), Jennifer Donnelly
-* [**Red Rising Trilogy**](https://www.amazon.com/Red-Rising-Pierce-Brown/dp/034553980X), Pierce Brown
-* [**Snow Falling on Cedars**](https://www.amazon.com/Snow-Falling-Cedars-David-Guterson/dp/067976402X), David Guterson
 
 
 2015
