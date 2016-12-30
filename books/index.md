@@ -115,6 +115,7 @@ I jot down turns of phrase that catch my fancy (when I remember). These are some
 
 <img style="float: left; padding-right: 50px" src="/images/books-to-set-you-free.jpg" alt="Znaniye razorvet tsepi rabstva [Knowledge will break the chains of slavery], a poster by Alexei Radakov (1872-1942).">
 
+* <em>"In three words I can sum up everything I've learned about life: it goes on." </em> (Robert Frost  quoted in The Harper Book of Quotations)
 * <em>"Once a thing is known it can never be unknown. It can only be forgotten. And, in a way that bends time, so long as it is remembered, it will indicate the future. It is wiser, in every circumstance, to forget, to cultivate the art of forgetting. To remember is to face the enemy. The truth lies in remembering." </em> (from Look at Me by Anita Brookner)
 * <em>"The pitcher longs for water to carry and a person for work that is real"</em> (from Marge Piercy’s poem “To Be of Use”)
 * <em>"Unlike ordinary topiary they moved: they lumbered along very slowly, almost imperceptibly, wading half submerged in the dark foliage like hippopotami wallowing in an equatorial African river."</em> (from The Magicians)
