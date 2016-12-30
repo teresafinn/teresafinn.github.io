@@ -76,6 +76,7 @@ image:
 * [**The Sky is Everywhere**](https://www.amazon.com/Sky-Everywhere-Jandy-Nelson/dp/0142417807), Jandy Nelson
 * [**Red Rising Trilogy**](https://www.amazon.com/Red-Rising-Pierce-Brown/dp/034553980X), Pierce Brown
 * [**Snow Falling on Cedars**](https://www.amazon.com/Snow-Falling-Cedars-David-Guterson/dp/067976402X), David Guterson
+* [**Dear Mr. You**](https://www.amazon.com/Dear-Mr-Mary-Louise-Parker/dp/1501107844), Mary-Louise Parker
 * [**I Capture the Castle**](https://www.amazon.com/I-Capture-Castle-Dodie-Smith/dp/031231616X/), Dodie Smith
 * [**Hold Still: A Memoir with Photographs**](http://www.amazon.com/Hold-Still-Photographs-Sally-Mann/dp/0316247766), Sally Mann
 * [**All The Light We Cannot See**](http://www.amazon.com/All-Light-We-Cannot-See/dp/1476746583), Anthony Doerr
