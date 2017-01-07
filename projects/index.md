@@ -19,11 +19,11 @@ image:
 
 
 ## Techie Projects
-* **The Diaper Doppler** -
+<!-- * **The Diaper Doppler** -
 <!-- (http://diaper-doppler.herokuapp.com) -->
 <!-- [(https://github.com/teresafinn/the-dirty-cookie)](https://github.com/teresafinn/the-dirty-cookie) -->
-I'm really excited to be in the initial stages (as of October 2015) of developing a web app for the non-profit [**PDX Diaper Bank**](www.pdxdiaperbank.org/). The application will allow volunteers at the diaper bank to place a bag of diapers on a scale and get an automatic read-out of how many diapers the package contains. This will help make more efficient use of volunteer-time by not requiring volunteers to count one-by-one all the thousands of diapers that are donated. This will help the diaper bank by allowing diapers to be packaged faster and allow distribution to go much quicker!
-
+<!-- I'm really excited to be in the initial stages (as of October 2015) of developing a web app for the non-profit [**PDX Diaper Bank**](www.pdxdiaperbank.org/). The application will allow volunteers at the diaper bank to place a bag of diapers on a scale and get an automatic read-out of how many diapers the package contains. This will help make more efficient use of volunteer-time by not requiring volunteers to count one-by-one all the thousands of diapers that are donated. This will help the diaper bank by allowing diapers to be packaged faster and allow distribution to go much quicker! -->
+ -->
 * [**The Dirty Cookie**](http://dirty-cookie.herokuapp.com) -
 Ruby on Rails group project showcasing an online commerce platform for a local cookie delivery service. The app facilitates online ordering and allows restaurant administrators to process and complete orders. Features: authentication, authorization, session-based shopping cart, and checkout. My main focus on this project was implementing the shopping cart, testing with Rspec, Capybara, and FactoryGirl, and taking a crack at designing with Bootstrap and JQuery. Be forgiving of the look-and-feel - my focus was mostly on the backend! Contact me for login credentials to access the admin dashboard and functionality. For inquiring minds, I give you the [source code](https://github.com/teresafinn/the-dirty-cookie)!
 
@@ -37,7 +37,7 @@ First Ruby on Rails app built from scratch that allows an authenticated user to 
 ---
 
 ##  Crafty Projects
-* **Growing Shitake Mushrooms** - The first thing I'm planning to do when I settle into my new DC-digs is to innoculate as many oak logs as I can get my hands on with shitake mushroom spawn. I am so excited for this process to begin! When I finally get back I'll be throwing a mushroom innoculation party where we'll drill holes into our logs, plug the holes with spawn, and seal them with wax so no foreign or competing molds can siphon resources from the shitake mycelia. Do you wanna come? Contact me! The mycelia will then colonize the logs in 6-18 months (I'm hoping for 6 months) and after this excrutiating wait I can expect my flush of fresh shitake mushrooms. Success comes to those with patience, right?!
+* **Growing Shitake Mushrooms** - As of fall 2016, the great shiitake mushroom farming project has begun. I've started with 18 oak logs and innoculated them with two different strands of shiitake mushrooms. The mushroom innoculation party included drilling holes into oak logs, plugging the holes with spawn, and sealing the holes with wax so no foreign or competing molds can siphon resources from the shitake mycelia. The mycelia are now busy colonizing the logs! One year of excrutiating waiting later I can expect my first flush of fresh shitake mushrooms.
 
 * [**Logo and (simple) Digital Art Tinkering**](/projects/digital-art-tinkering) - I have oodles of fun tinkering with photoshop and love digital asset development in general. Designing visual identies is creative problem solving - you have a goal, you have infinite options, and you have to choose colors, shapes, typography, etc. to communicate the intended goal. I love it! I've even developed (with templates) [Ascending Node](http://ascendingnode.ca/)'s live website!
 

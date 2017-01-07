@@ -19,7 +19,7 @@ The puzzles represented by systems - technological systems, organizational syste
 
 I love challenges, people, and figuring out the whys. I have wide ranging interests and experiences - I've worked as a currency trader, English teacher in China, international trade analyst, cake decorator, higher ed administrator, fledgling academic, barista, and more. Particularly delightful topics for me: digital journalism and the changes to news delivery, enagaging communities through technology, all the social sciences, the intersection of liberal arts and technology, and the complicated system of higher ed. I am a huge believer in the power and importance of communities - I help organize [**Ruby for Good**](http://rubyforgood.com) and designed this beautiful [**logo**](/images/ruby-for-good-logo.jpg) for our annual meeting.
 
-In my free time I'm often focused growing things. I'm an avid gardener and try to colonize all viable spaces with plants. I am also frequently decorating delicious and [**tasty treats**](/hobbies). I dig roasting my own coffee, reading, and am loving learning how to be a better cyclist. Very soon I will start growing my own shitake mushrooms, mmMmMmm!
+In my free time I'm often focused growing things. I'm an avid gardener and try to colonize all viable spaces with plants. I am also frequently decorating delicious and [**tasty treats**](/hobbies). I dig roasting my own coffee, reading, and am loving learning how to grow shiitake mushrooms—mmMmMmm!
 
 <!--  -->
 
