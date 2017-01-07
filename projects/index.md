@@ -23,7 +23,7 @@ image:
 <!-- (http://diaper-doppler.herokuapp.com) -->
 <!-- [(https://github.com/teresafinn/the-dirty-cookie)](https://github.com/teresafinn/the-dirty-cookie) -->
 <!-- I'm really excited to be in the initial stages (as of October 2015) of developing a web app for the non-profit [**PDX Diaper Bank**](www.pdxdiaperbank.org/). The application will allow volunteers at the diaper bank to place a bag of diapers on a scale and get an automatic read-out of how many diapers the package contains. This will help make more efficient use of volunteer-time by not requiring volunteers to count one-by-one all the thousands of diapers that are donated. This will help the diaper bank by allowing diapers to be packaged faster and allow distribution to go much quicker! -->
- -->
+
 * [**The Dirty Cookie**](http://dirty-cookie.herokuapp.com) -
 Ruby on Rails group project showcasing an online commerce platform for a local cookie delivery service. The app facilitates online ordering and allows restaurant administrators to process and complete orders. Features: authentication, authorization, session-based shopping cart, and checkout. My main focus on this project was implementing the shopping cart, testing with Rspec, Capybara, and FactoryGirl, and taking a crack at designing with Bootstrap and JQuery. Be forgiving of the look-and-feel - my focus was mostly on the backend! Contact me for login credentials to access the admin dashboard and functionality. For inquiring minds, I give you the [source code](https://github.com/teresafinn/the-dirty-cookie)!
 
